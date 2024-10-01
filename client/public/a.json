@@ -1,0 +1,212 @@
+[
+  {
+    "job_title": "React Developer Needed",
+    "deadline": "2024-08-01T10:00:00.000Z",
+    "category": "Web Development",
+    "min_price": 50,
+    "max_price": 100,
+    "description": "Looking for an experienced React developer to build a single-page application.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "Website Redesign",
+    "deadline": "2024-07-20T15:00:00.000Z",
+    "category": "Graphics Design",
+    "min_price": 200,
+    "max_price": 400,
+    "description": "Redesign a company website to improve user experience and aesthetics.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "SEO Specialist",
+    "deadline": "2024-08-10T12:00:00.000Z",
+    "category": "Digital Marketing",
+    "min_price": 75,
+    "max_price": 150,
+    "description": "Optimize website content for search engines to improve organic traffic.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "Logo Design",
+    "deadline": "2024-07-25T09:00:00.000Z",
+    "category": "Graphics Design",
+    "min_price": 30,
+    "max_price": 70,
+    "description": "Design a new logo for a startup company.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "Social Media Manager",
+    "deadline": "2024-08-15T14:00:00.000Z",
+    "category": "Digital Marketing",
+    "min_price": 100,
+    "max_price": 200,
+    "description": "Manage social media accounts and create content to increase engagement.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "Backend Developer",
+    "deadline": "2024-07-30T16:00:00.000Z",
+    "category": "Web Development",
+    "min_price": 60,
+    "max_price": 120,
+    "description": "Develop and maintain the backend of a web application using Node.js.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "Banner Design",
+    "deadline": "2024-07-22T11:00:00.000Z",
+    "category": "Graphics Design",
+    "min_price": 25,
+    "max_price": 50,
+    "description": "Create a promotional banner for an online campaign.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "Email Marketing Campaign",
+    "deadline": "2024-08-05T13:00:00.000Z",
+    "category": "Digital Marketing",
+    "min_price": 90,
+    "max_price": 180,
+    "description": "Design and execute an email marketing campaign to promote a new product.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "Full-Stack Developer",
+    "deadline": "2024-07-28T18:00:00.000Z",
+    "category": "Web Development",
+    "min_price": 80,
+    "max_price": 160,
+    "description": "Build a full-stack application using React and Express.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "Brochure Design",
+    "deadline": "2024-07-19T17:00:00.000Z",
+    "category": "Graphics Design",
+    "min_price": 45,
+    "max_price": 90,
+    "description": "Design a brochure for a real estate agency.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "PPC Campaign Manager",
+    "deadline": "2024-08-12T20:00:00.000Z",
+    "category": "Digital Marketing",
+    "min_price": 110,
+    "max_price": 220,
+    "description": "Manage pay-per-click advertising campaigns to drive targeted traffic.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "Frontend Developer",
+    "deadline": "2024-08-03T08:00:00.000Z",
+    "category": "Web Development",
+    "min_price": 70,
+    "max_price": 140,
+    "description": "Develop the frontend of a web application using React and Tailwind CSS.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "Infographic Design",
+    "deadline": "2024-07-27T19:00:00.000Z",
+    "category": "Graphics Design",
+    "min_price": 35,
+    "max_price": 70,
+    "description": "Create an infographic to present complex data in an easy-to-understand format.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "Content Marketing Strategist",
+    "deadline": "2024-08-08T21:00:00.000Z",
+    "category": "Digital Marketing",
+    "min_price": 95,
+    "max_price": 190,
+    "description": "Develop a content marketing strategy to increase brand awareness.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  },
+  {
+    "job_title": "WordPress Developer",
+    "deadline": "2024-07-24T14:00:00.000Z",
+    "category": "Web Development",
+    "min_price": 55,
+    "max_price": 110,
+    "description": "Develop a custom WordPress theme for a blog.",
+    "bid_count": 0,
+    "buyer": {
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  }
+]
